@@ -85,5 +85,5 @@ Repositorio:
 ## OSCP
 - https://ceso.github.io/posts/2020/04/hacking/oscp-cheatsheet/
 
-F0R0s:
-https://hackxcrack.net/
+## F0R0s:
+- https://hackxcrack.net/

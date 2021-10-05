@@ -43,6 +43,7 @@ https://amtube.ccin.in/
 - https://blog.focal-point.com/how-to-build-obfuscated-macros-for-your-next-social-engineering-campaign
 - https://blog.stmcyber.com/excel-4-0-for-red-team/
 - https://blog.stmcyber.com/boobsnail-excel-4-0-macro-generator/
+- https://github.com/1d8/macros
 
 ## Dotm - Docx
 - https://sevrosecurity.com/2019/09/12/dynamic-office-template-injection-for-sandbox-bypass/
@@ -51,6 +52,12 @@ https://amtube.ccin.in/
 
 ## 3M4iL
 - https://kickbox.com/
+- https://github.com/m4ll0k/infoga
+
+## PH15H1NG
+- https://o365blog.com/post/phishing/
+- https://0xboku.com/2021/07/12/ArtOfDeviceCodePhish.html
+**Outlook (OWA) dispositivo de Azure
 
 **Use h8mail para encontrar contraseñas a través de diferentes servicios de violación y reconocimiento, o el infame torrent Compilation.
 Repositorio:

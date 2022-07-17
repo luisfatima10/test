@@ -23,6 +23,10 @@ https://gist.github.com/staaldraad/204928a6004e89553a8d3db0ce527fd5
 https://rastamouse.me/
 https://gist.github.com/rasta-mouse
 
+## Ofuscate
+- https://github.com/htr-tech/PyObfuscate
+- https://github.com/SubGlitch1/OSRipper *** Backdoor generator and Crypter which specialises in OSX M1 malware ***
+
 ## Bypass a AntiVirus Loader de 64 bits -D4rkSit3
 - https://d4rksit3.medium.com/bypass-a-antivirus-obtener-una-sesion-meterpreter-d4rksit3-8e2917bf205e
 - https://0x00sec.org/t/antivirus-runtime-bypass/25574/14

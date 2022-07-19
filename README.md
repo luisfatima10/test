@@ -20,12 +20,19 @@ https://github.com/0xvm/csharp_reverse_shell
 
 https://gist.github.com/staaldraad/204928a6004e89553a8d3db0ce527fd5
 
+https://github.com/snovvcrash/DInjector  *video* https://vimeo.com/719398239
+
 https://rastamouse.me/
+
 https://gist.github.com/rasta-mouse
+
+https://github.com/pr0xylife/Qakbot/blob/main/Qakbot_obama201_14.07.2022.txt
 
 ## Ofuscate
 - https://github.com/htr-tech/PyObfuscate
+## R4t
 - https://github.com/SubGlitch1/OSRipper *** Backdoor generator and Crypter which specialises in OSX M1 malware ***
+- https://github.com/Viralmaniar/Powershell-RAT
 
 ## Bypass a AntiVirus Loader de 64 bits -D4rkSit3
 - https://d4rksit3.medium.com/bypass-a-antivirus-obtener-una-sesion-meterpreter-d4rksit3-8e2917bf205e
@@ -79,12 +86,14 @@ Repositorio:
 ## MOV1L
 **Para saltar los antivirus de dispositivos moviles
 - https://github.com/jbreed/apkwash
+- https://pts-project.org/  *** movil forence y analisis de red
+- https://github.com/EVLF/Cypher-Rat-Source-Code
 
 ## R4T4TUi
 1.Multi plataforma
   - https://github.com/preludeorg/pneuma
   - https://feed.prelude.org/p/meet-pneuma
-
+  - https://www.kitploit.com/2022/06/nimc2-c2-fully-written-in-nim.html
 ## 3NC0D3R
 - https://raikia.com/tool-powershell-encoder/
 
@@ -98,3 +107,5 @@ Repositorio:
 
 ## F0R0s:
 - https://hackxcrack.net/
+## PDF Download 
+- https://www.atlantafed.org/-/media/documents/cqer/researchcq/gdpnow/RealGDPTrackingSlides.pdf
